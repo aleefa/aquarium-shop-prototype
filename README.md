@@ -1,4 +1,4 @@
-# Bluehaven Aquatics — Aquarium Storefront Concept
+# Disny — Aquarium Storefront Concept
 
 A responsive, interactive React + Vite ecommerce frontend prototype for a physical aquarium shop planning a Shopify launch.
 
